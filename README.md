@@ -8,6 +8,7 @@ The source of truth is the keynote file (`contributing-OSS.key`) but since it re
 
 This talk has been run a few times: (reverse chronological order)
 
+- [Sofia 2022 (Hopper Tech Talks)](https://www.meetup.com/Hopper-Tech-Talks/events/285419162)
 - [Scala Toronto](https://www.meetup.com/scalator/events/267757270/)
 - [Full Stack Vallès](https://www.meetup.com/Full-Stack-Valles/events/265525805/)
 - [Scala Developers Barcelona](https://www.meetup.com/Scala-Developers-Barcelona/events/265469249/)
